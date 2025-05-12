@@ -46,16 +46,64 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ConsultaDeHabitaciones.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ConsultaDeHabitaciones.Designer.cs">
+      <DependentUpon>ConsultaDeHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturacion.Designer.cs">
+      <DependentUpon>Facturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeHuesped.Designer.cs">
+      <DependentUpon>GestionDeHuesped.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeUsuarios.Designer.cs">
+      <DependentUpon>GestionDeUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="RegistroDeHabitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeHabitaciones.Designer.cs">
+      <DependentUpon>RegistroDeHabitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalidaDeHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalidaDeHuesped.Designer.cs">
+      <DependentUpon>SalidaDeHuesped.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GestionDeHuesped.resx">
+      <DependentUpon>GestionDeHuesped.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
