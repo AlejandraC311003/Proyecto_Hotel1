@@ -1,0 +1,15 @@
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe.config
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.exe
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\bin\Debug\Proyecto_Hotel.pdb
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.csprojResolveAssemblyReference.cache
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Consulta_de_haitacion.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Factura.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Gestion_de_Huesped.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Login.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.MenuPrincipal.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Properties.Resources.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Reserva_de_haitacion.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.Salida_de_huesped.resources
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.csproj.GenerateResource.Cache
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.exe
+c:\users\carra\onedrive\documents\visual studio 2012\Projects\Proyecto_Hotel\Proyecto_Hotel\obj\Debug\Proyecto_Hotel.pdb
